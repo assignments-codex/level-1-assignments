@@ -1,22 +1,27 @@
 #### Objective
-Collision interaction from Lesson 14.
+
+Original Utility App. Small app with events, input, and conditionals.
 
 #### Requirements
-1. Open Lesson 14 and complete one L14.6 Practice and one L14.7 Assessment.
-2. Build a scene with at least two sprites that interact using isTouching or collide and show a visible result.
+
+1. Two or more screens with navigation.
+2. At least one input, one event, and one conditional that changes the UI or result.
 
 #### Screenshots
+
 - Share link
-- One screenshot of the running scene
-- One screenshot showing the collision code
+- One screenshot of the app running
+- One code screenshot of the core event + conditional
 
 #### Reflection
-- Which collision method you used and why
-- One bug you solved
-- One improvement to make later
+
+- What the app does for the user
+- One logic bug you fixed
+- One feature you would add next
 
 #### Rubric (20 pts)
-- L14 items completed 0–5
-- Interaction result visible 0–5
+
+- Events + input + conditional present 0–5
+- Multi-screen navigation 0–5
 - Screenshots clear 0–5
 - Reflection quality 0–5

@@ -1,11 +1,11 @@
 #### Objective
 
-Style your **Lesson 5 mini‑project page** using Lesson 10 “Mini‑Project – Adding Style”.
+Unit 2 Lesson 10 Mini-Project Adding Style. Style the same user page you built in Lesson 5.
 
 #### Requirements
 
-1. Open Unit 2 -> Lesson 10. Work through the “Add Style to Your User’s Page” levels.
-2. On the **same user page you built in Lesson 5**, add at least five CSS rules (color, font, spacing, link states).
+1. Open Lesson 10 and add styles to your page.
+2. Include at least five CSS rules that change color, font, spacing, or link states.
 
 #### Screenshots
 
@@ -14,7 +14,7 @@ Style your **Lesson 5 mini‑project page** using Lesson 10 “Mini‑Project �
 
 #### Reflection
 
-- Which CSS property will you use most
+- Which CSS property you will use most
 - One selector rule you learned
 - One thing you still want to practice
 

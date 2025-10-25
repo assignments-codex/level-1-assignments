@@ -1,10 +1,9 @@
 #### Goal
 
-Apply text styles and reusable classes in CodeSandbox.
+Unit 2 Lesson 20 Project – Style and check work.
 
 #### Steps
 
-1. In `styles.css`, set base typography (font family, size, line‑height).
-2. Create two classes (for example `.button`, `.card`) and apply them on at least two pages.
-3. Add link states with pseudo‑classes `:link`, `:visited`, `:hover`, `:active`.
-4. If time remains, tidy your HTML and remove inline styles.
+1. Complete “Add Style” and “Share Your Stylesheets”.
+2. Complete “Check Your Work” and fix broken links or images.
+3. Ensure every page uses the shared stylesheet.

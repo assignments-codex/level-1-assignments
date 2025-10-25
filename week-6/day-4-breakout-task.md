@@ -1,8 +1,9 @@
 #### Goal
-Lesson 10 Conditionals. Complete one L10.8 Practice and one L10.9 Assessment.
+
+App Lab Lesson 9 if-else-if. Build a three-category result.
 
 #### Steps
-1. Open Lesson 10.
-2. Do any one L10.8 Practice.
-3. Do any one L10.9 Assessment.
-4. If time remains, switch a sprite or color based on a condition.
+
+1. Add one Input and a Check button.
+2. Use an `if` / `else if` / `else` chain to categorize input.
+3. Display the category and adjust a color to match.

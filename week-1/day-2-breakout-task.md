@@ -1,10 +1,10 @@
 #### Goal
 
-Complete one Practice from 3.8 and one Challenge from 3.11. If you have time, do the rest.
+Unit 2 Lesson 3 Headings and Lists. Complete one 3.8 Practice and one 3.11 Challenge. If time remains, do the rest.
 
 #### Steps
 
-1. Open Web Development, Lesson 3 Headings and Lists.
+1. Open Lesson 3 Headings and Lists.
 2. Do any one 3.8 Practice activity.
 3. Do any one 3.11 Challenge activity.
-4. If time remains, finish the other options you still have.
+4. If time remains, complete remaining options.

@@ -1,8 +1,10 @@
 #### Goal
-Lesson 1 Drawing in Game Lab. Complete one L1.9 Practice and one L1.10 Assessment. If you have time, try L1.11 Challenge.
+
+App Lab Lesson 1 Intro to App Lab. Use Design mode and run your app.
 
 #### Steps
-1. Open Unit 3 Lesson 1.
-2. Do any one L1.9 Practice.
-3. Do any one L1.10 Assessment.
-4. If time remains, attempt L1.11 Challenge.
+
+1. Open Lesson 1.
+2. Add a Label and a Button in Design mode. Rename their ids.
+3. In Code mode, set the label text and change one style with `setProperty`.
+4. Run and confirm the label updates on start.

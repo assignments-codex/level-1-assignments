@@ -1,28 +1,27 @@
 #### Objective
 
-Checkpoint your CodeSandbox site.
+Unit 2 Lesson 21 Peer Review and Final Touches. Incorporate feedback.
 
 #### Requirements
 
-1. Nav works on all three pages from **Week 4 Day 1**.
-2. At least two images with `alt` and attribution.
-3. Two reusable CSS classes and link states.
+1. Complete the peer review pass in Lesson 21.
+2. Address at least two pieces of feedback on content, links, or styles.
+3. Prepare your site for sharing.
 
 #### Screenshots
 
-- CodeSandbox share link
-- One screenshot of the running site
-- One screenshot of `styles.css` showing your classes
+- Lesson 21 bubble view indicating peer review completed
+- One before/after screenshot of a change you made
 
 #### Reflection
 
-- One styling decision you like
-- One thing that needs work
-- One bug you fixed today
+- Two feedback items you addressed
+- One item still to improve
+- Your plan to finish before showcase
 
 #### Rubric (20 pts)
 
-- Nav + pages working 0–5
-- Images and accessibility 0–5
-- CSS classes and link states 0–5
+- Peer review completed 0–5
+- Meaningful fixes applied 0–5
+- Screenshots clear 0–5
 - Reflection quality 0–5

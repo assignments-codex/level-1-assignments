@@ -1,22 +1,28 @@
 #### Objective
-Keyboard micro game from Lesson 11.
+
+App Lab Lesson 10 Color Sleuth. Core gameplay.
 
 #### Requirements
-1. Open Lesson 11 and complete one L11.5 Practice and one L11.6 Assessment.
-2. Build a tiny scene where arrow keys move a sprite and one goal exists.
+
+1. Grid of choices and a target color.
+2. Randomize the correct answer and handle guesses with `onEvent`.
+3. Track score or rounds and update the UI.
 
 #### Screenshots
+
 - Share link
-- One screenshot of the running scene
-- One screenshot highlighting the keyboard code
+- One screenshot of the game
+- One code screenshot showing randomize + guess handler
 
 #### Reflection
-- What felt different using keyboard input
-- One control tweak that helped
-- One next feature you will add
+
+- What your random logic controls
+- One UX improvement you added
+- One next feature
 
 #### Rubric (20 pts)
-- L11 items completed 0–5
-- Movement and goal visible 0–5
+
+- Core loop implemented 0–5
+- Score/rounds update 0–5
 - Screenshots clear 0–5
 - Reflection quality 0–5

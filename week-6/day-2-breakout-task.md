@@ -1,8 +1,9 @@
 #### Goal
-Lesson 9 Sprite Movement. Complete one L9.7 Practice and one L9.8 Assessment.
+
+App Lab Lesson 7 User Input and Strings. Read input and display a message.
 
 #### Steps
-1. Open Lesson 9.
-2. Do any one L9.7 Practice.
-3. Do any one L9.8 Assessment.
-4. If time remains, keep the sprite on screen by wrapping or clamping.
+
+1. Add a Text Input, Button, and Label.
+2. Read `getText(...)`, build `"Hello, <name>!"`, and display it with `setProperty`.
+3. Test with several names.

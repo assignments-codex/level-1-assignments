@@ -1,7 +1,9 @@
 #### Goal
-Build the core loop using Lesson 18 project levels.
+
+Implement core features.
 
 #### Steps
-1. Implement movement and one interaction such as collect, avoid, or collide.
-2. Show a score or state variable that updates.
-3. If time remains, add sound or basic UI text.
+
+1. Add inputs and handlers for the main action.
+2. Use `if/else` or `if-else-if` to drive results.
+3. Update the UI so outcomes are visible.

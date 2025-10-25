@@ -1,7 +1,9 @@
 #### Goal
-Design your game using Lesson 18 Design Your Game.
+
+Build core screens and navigation.
 
 #### Steps
-1. List sprites, variables, and controls.
-2. Write win and lose conditions.
-3. Sketch 2 to 3 screens or states.
+
+1. Create all screens from your proposal.
+2. Wire nav with `onEvent` + `setScreen`.
+3. Initialize variables you will need.

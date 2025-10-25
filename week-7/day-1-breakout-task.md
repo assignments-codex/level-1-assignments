@@ -1,7 +1,9 @@
 #### Goal
-Lesson 12 Mouse Input. Complete one L12.7 Practice and one L12.8 Assessment.
+
+Color Sleuth polish. Add progression.
 
 #### Steps
-1. Open Lesson 12.
-2. React to mouse position or clicks to change something visible.
-3. Finish any one L12.7 Practice and one L12.8 Assessment.
+
+1. Add timer, lives, or increasing difficulty.
+2. Update score/round UI to reflect your feature.
+3. Test three rounds end-to-end.

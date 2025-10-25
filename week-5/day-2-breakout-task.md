@@ -1,8 +1,10 @@
 #### Goal
-Lesson 2 Shapes and Parameters. Complete one L2.6 Practice and one L2.7 Assessment.
+
+App Lab Lesson 2 Buttons and Events. Respond to clicks with `onEvent`.
 
 #### Steps
+
 1. Open Lesson 2.
-2. Do any one L2.6 Practice.
-3. Do any one L2.7 Assessment.
-4. If time remains, adjust parameters to create a small scene.
+2. Add two Buttons and a Label.
+3. Write two handlers using `onEvent` to update the label text.
+4. Run and verify both buttons work.

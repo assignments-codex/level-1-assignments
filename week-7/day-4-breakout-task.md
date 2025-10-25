@@ -1,7 +1,9 @@
 #### Goal
-Lesson 15 Complex Sprite Movement. Complete one L15.5 Practice and one L15.6 Assessment.
+
+Final project planning.
 
 #### Steps
-1. Open Lesson 15.
-2. Add gravity or acceleration to a sprite and make it feel responsive.
-3. Finish any one L15.5 Practice and one L15.6 Assessment.
+
+1. List screens, variables, and controls.
+2. Define success criteria for your app.
+3. Sketch the screens or map events to handlers.

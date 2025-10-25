@@ -1,7 +1,9 @@
 #### Goal
-Lesson 13 Velocity. Complete one L13.8 Practice and one L13.9 Assessment.
+
+UI/UX improvements and persistence.
 
 #### Steps
-1. Open Lesson 13.
-2. Use velocityX or velocityY for smooth motion.
-3. Finish any one L13.8 Practice and one L13.9 Assessment.
+
+1. Add a start screen with brief instructions.
+2. Track best score and update when a new high score is reached.
+3. Adjust spacing, colors, or text for clarity.

@@ -1,24 +1,28 @@
 #### Objective
-CodeSandbox interactive card.
+
+App Lab Lesson 8 Boolean Expressions. Build a simple guard or login.
 
 #### Requirements
-1. In CodeSandbox, build a card with a title and hidden content.
-2. Add an addEventListener for click or a single key.
-3. Use an if or if else to toggle a class that shows or hides content.
-4. Add visible focus or hover styles.
+
+1. Two inputs for a check (age and name, or code and attempt).
+2. Use at least two boolean expressions with `&&` or `||`.
+3. Show success screen/message on pass and try-again on fail.
 
 #### Screenshots
-- CodeSandbox share link
-- One screenshot of the running card
-- One screenshot of JS showing the event and conditional
+
+- Share link
+- One screenshot of success state
+- One code screenshot showing boolean expressions
 
 #### Reflection
-- Which event you used and why
-- What the conditional changes
-- One next improvement
+
+- Why you chose `&&` or `||`
+- One bug you fixed
+- One improvement you would add
 
 #### Rubric (20 pts)
-- Event handler present 0–5
-- Conditional toggles UI 0–5
+
+- Inputs + logic implemented 0–5
+- Correct use of boolean expressions 0–5
 - Screenshots clear 0–5
 - Reflection quality 0–5

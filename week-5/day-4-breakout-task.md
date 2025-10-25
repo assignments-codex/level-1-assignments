@@ -1,8 +1,10 @@
 #### Goal
-Lesson 5 Sprites. Complete one L5.9 Practice and one L5.10 Assessment.
+
+App Lab Lesson 4 Variables. Display and update a score.
 
 #### Steps
-1. Open Lesson 5.
-2. Create at least two sprites and set properties.
-3. Finish any one L5.9 Practice and one L5.10 Assessment.
-4. If time remains, open Lesson 6 and change one sprite property.
+
+1. Add a Label and a Button.
+2. Create `var score = 0;` at the top.
+3. On click, increment `score` and update the label text.
+4. Run and verify the score increases every click.
