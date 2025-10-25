@@ -1,9 +1,9 @@
 #### Goal
 
-Color Sleuth polish. Add progression.
+Extend Color Sleuth with one progression feature.
 
 #### Steps
 
-1. Add timer, lives, or increasing difficulty.
-2. Update score/round UI to reflect your feature.
-3. Test three rounds end-to-end.
+1. Add one feature such as timer, lives, or difficulty ramp.
+2. Make sure the UI shows the new feature clearly.
+3. If you finish early, tighten spacing or colors for clarity.

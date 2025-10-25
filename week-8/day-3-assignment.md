@@ -4,7 +4,7 @@ Playable or usable checkpoint.
 
 #### Requirements
 
-1. The core loop or main action works end-to-end.
+1. The core loop or main action works end to end.
 2. At least one state, score, or summary value updates visibly.
 
 #### Screenshots

@@ -4,6 +4,6 @@ Implement core features.
 
 #### Steps
 
-1. Add inputs and handlers for the main action.
-2. Use `if/else` or `if-else-if` to drive results.
-3. Update the UI so outcomes are visible.
+1. Add inputs and handlers for the main action of your app.
+2. Use simple conditions to produce visible results.
+3. If you finish early, add one small accessibility improvement.

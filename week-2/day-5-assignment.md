@@ -4,13 +4,13 @@ Unit 2 Lesson 12 Organizing Content with Flexbox. Apply flex to your nav.
 
 #### Requirements
 
-1. Complete at least one 12.6 Practice and one Assessment at 12.7 or 12.8.
-2. Convert your page’s nav into a flex container. Add a class to the nav list, then set `display: flex` and space items.
+1. Complete at least one Practice at 12.6 and any one Assessment at 12.7 or 12.8.
+2. Convert your page nav into a flex container. Add a class to the nav list, then set `display: flex` and space items.
 
 #### Screenshots
 
 - Lesson 12 bubble view showing today’s completions
-- One screenshot of HTML (nav with class) and CSS (flex rules) or a before/after of the nav
+- One screenshot of HTML (nav with class) and CSS (flex rules) or a before and after of the nav
 
 #### Reflection
 

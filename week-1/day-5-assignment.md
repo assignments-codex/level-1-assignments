@@ -4,9 +4,8 @@ Unit 2 Lesson 8 Using Images. Show progress adding images correctly.
 
 #### Requirements
 
-1. Do any one 8.7 Practice activity.
-2. Do any one 8.10 Assessment item.
-3. Include at least one `img` with meaningful `alt` and a short attribution note if needed.
+1. Do any one Practice at 8.7 and any one Assessment at 8.10.
+2. Include at least one `img` with meaningful `alt` and a short attribution note if needed.
 
 #### Screenshots
 

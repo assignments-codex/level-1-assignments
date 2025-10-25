@@ -1,10 +1,9 @@
 #### Goal
 
-App Lab Lesson 4 Variables. Display and update a score.
+Lesson 5 Clicker Game. Make sure the core loop works end to end.
 
 #### Steps
 
-1. Add a Label and a Button.
-2. Create `var score = 0;` at the top.
-3. On click, increment `score` and update the label text.
-4. Run and verify the score increases every click.
+1. Open Lesson 5.
+2. Complete the levels we demoed in lecture so clicking changes a value and the UI shows it.
+3. If you finish early, add a reset action or a simple milestone message.

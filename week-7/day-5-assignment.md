@@ -4,9 +4,9 @@ Final project proposal.
 
 #### Requirements
 
-1. One-page design summary: screens, variables, controls, core logic.
-2. Short event map (which buttons trigger which handlers).
-3. State one stretch goal feature.
+1. One page design summary with screens, variables, controls, and core logic.
+2. Event map that shows which buttons trigger which handlers.
+3. One stretch goal feature listed separately.
 
 #### Screenshots
 
@@ -20,7 +20,7 @@ Final project proposal.
 
 #### Rubric (20 pts)
 
-- Clear scope + event map 0–5
+- Clear scope and event map 0–5
 - Feasible feature set 0–5
 - Evidence clear 0–5
 - Reflection quality 0–5

@@ -1,9 +1,9 @@
 #### Goal
 
-App Lab Lesson 9 if-else-if. Build a three-category result.
+Lesson 10 Color Sleuth. Build the first half of the core loop.
 
 #### Steps
 
-1. Add one Input and a Check button.
-2. Use an `if` / `else if` / `else` chain to categorize input.
-3. Display the category and adjust a color to match.
+1. Open Lesson 10.
+2. Complete the levels we demoed so a target is created and choices are displayed.
+3. If you finish early, add basic correct or wrong feedback or a simple round reset.

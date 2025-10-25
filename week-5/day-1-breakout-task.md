@@ -1,10 +1,9 @@
 #### Goal
 
-App Lab Lesson 1 Intro to App Lab. Use Design mode and run your app.
+Finish App Lab Lesson 1 and Lesson 2 we started together.
 
 #### Steps
 
-1. Open Lesson 1.
-2. Add a Label and a Button in Design mode. Rename their ids.
-3. In Code mode, set the label text and change one style with `setProperty`.
-4. Run and confirm the label updates on start.
+1. Open the App Lab unit, then Lesson 1 and Lesson 2.
+2. Complete the levels we demoed in lecture so basic UI and events work.
+3. If you finish early, rename control ids to readable names or add one more button event.

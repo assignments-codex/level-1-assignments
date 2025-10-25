@@ -4,7 +4,7 @@ Unit 2 Lesson 19 Planning a Multi-Page Site. Team pages and assets.
 
 #### Requirements
 
-1. Complete planning levels in Lesson 19, including Upload Your Images.
+1. Complete the planning levels in Lesson 19, including Upload Your Images if available.
 2. List your pages and who owns each one. List assets you are using and sources.
 
 #### Screenshots

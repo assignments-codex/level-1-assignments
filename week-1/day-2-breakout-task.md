@@ -1,10 +1,10 @@
 #### Goal
 
-Unit 2 Lesson 3 Headings and Lists. Complete one 3.8 Practice and one 3.11 Challenge. If time remains, do the rest.
+Finish Unit 2 Lesson 3 Headings and Lists we started together.
 
 #### Steps
 
-1. Open Lesson 3 Headings and Lists.
-2. Do any one 3.8 Practice activity.
-3. Do any one 3.11 Challenge activity.
-4. If time remains, complete remaining options.
+1. Open Unit 2 Lesson 3.
+2. Complete the levels we demoed in lecture.
+3. Complete any one Practice at 3.8 and any one Challenge at 3.11.
+4. If you finish early, complete remaining options at 3.8 or 3.11.

@@ -1,10 +1,9 @@
 #### Goal
 
-Unit 2 Lesson 9 Styling Elements with CSS. Complete one 9.7 Practice and one Assessment at 9.8 or 9.9.
+Continue Unit 2 Lesson 10 Mini-Project Adding Style.
 
 #### Steps
 
-1. Open Lesson 9.
-2. Do any one 9.7 Practice activity.
-3. Do any one Assessment item at 9.8 or 9.9.
-4. If time remains, apply one non-text style to your Lesson 5 page.
+1. Open Unit 2 Lesson 10.
+2. Complete the levels we demoed in lecture on your Lesson 5 page.
+3. If you finish early, add one more CSS rule or tidy your selectors.

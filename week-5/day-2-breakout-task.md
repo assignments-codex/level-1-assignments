@@ -1,10 +1,9 @@
 #### Goal
 
-App Lab Lesson 2 Buttons and Events. Respond to clicks with `onEvent`.
+Finish Lesson 3 Multi-screen Apps so navigation works on every screen.
 
 #### Steps
 
-1. Open Lesson 2.
-2. Add two Buttons and a Label.
-3. Write two handlers using `onEvent` to update the label text.
-4. Run and verify both buttons work.
+1. Open Lesson 3.
+2. Complete the levels we demoed in lecture.
+3. If you finish early, add a back button on each screen and ensure titles are clear.

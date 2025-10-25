@@ -1,28 +1,28 @@
 #### Objective
 
-App Lab Lesson 10 Color Sleuth. Core gameplay.
+Lesson 10 Color Sleuth. Core loop continues with score or rounds.
 
 #### Requirements
 
-1. Grid of choices and a target color.
-2. Randomize the correct answer and handle guesses with `onEvent`.
-3. Track score or rounds and update the UI.
+1. Score or rounds update each time the user guesses.
+2. The round resets with a new target and choices.
+3. Feedback for correct or wrong is visible.
 
 #### Screenshots
 
 - Share link
-- One screenshot of the game
-- One code screenshot showing randomize + guess handler
+- One screenshot of the game mid-round
+- One code screenshot that shows your guess handling
 
 #### Reflection
 
 - What your random logic controls
 - One UX improvement you added
-- One next feature
+- One next feature you would add
 
 #### Rubric (20 pts)
 
-- Core loop implemented 0–5
-- Score/rounds update 0–5
+- Score or rounds update 0–5
+- Reset works cleanly 0–5
 - Screenshots clear 0–5
 - Reflection quality 0–5

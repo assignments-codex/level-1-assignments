@@ -1,28 +1,28 @@
 #### Objective
 
-App Lab Lesson 8 Boolean Expressions. Build a simple guard or login.
+Lesson 9 If-Else-If. Build a simple three-outcome result.
 
 #### Requirements
 
-1. Two inputs for a check (age and name, or code and attempt).
-2. Use at least two boolean expressions with `&&` or `||`.
-3. Show success screen/message on pass and try-again on fail.
+1. Complete the Lesson 9 levels you started in class.
+2. Your app reads one input and produces three different outcomes.
+3. Show the outcome in the UI and make it clear.
 
 #### Screenshots
 
 - Share link
-- One screenshot of success state
-- One code screenshot showing boolean expressions
+- One screenshot showing a non-default outcome
+- One code screenshot with your if-else-if logic
 
 #### Reflection
 
-- Why you chose `&&` or `||`
+- Why your conditions make sense
 - One bug you fixed
 - One improvement you would add
 
 #### Rubric (20 pts)
 
-- Inputs + logic implemented 0–5
-- Correct use of boolean expressions 0–5
+- Lesson 9 completion 0–5
+- Three outcomes visible 0–5
 - Screenshots clear 0–5
 - Reflection quality 0–5

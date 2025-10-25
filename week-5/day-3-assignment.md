@@ -1,28 +1,28 @@
 #### Objective
 
-App Lab Lesson 3 Multi-screen Apps. Build a 3-screen app with navigation.
+Lesson 4 Variables. Show a working variable that updates the UI.
 
 #### Requirements
 
-1. Create three screens and title labels.
-2. Add nav buttons on every screen and use `onEvent` + `setScreen` to navigate.
-3. Each content screen must display unique content.
+1. Complete the Lesson 4 levels you started in class.
+2. Display a variable in the UI and update it during an event.
+3. Keep ids and variable names readable.
 
 #### Screenshots
 
 - Share link
-- One screenshot on a non-home screen
-- One code screenshot of your `onEvent` + `setScreen` calls
+- One screenshot of the app running with the value visible
+- One code screenshot that shows the variable and the event that updates it
 
 #### Reflection
 
-- One thing you learned about `setScreen`
-- One naming rule for ids you will keep
-- One improvement you would add
+- What triggers your update
+- One naming rule you will keep
+- One improvement you would add next
 
 #### Rubric (20 pts)
 
-- Three screens + titles 0–5
-- Navigation works from all screens 0–5
+- Lesson 4 completion 0–5
+- Variable updates UI 0–5
 - Screenshots clear 0–5
 - Reflection quality 0–5

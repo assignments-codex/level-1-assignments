@@ -1,9 +1,9 @@
 #### Goal
 
-App Lab Lesson 6 If-Statements. Change UI based on a condition.
+Finish Lesson 6 If-Statements so a condition changes the UI.
 
 #### Steps
 
-1. Create a Toggle button and a Label.
-2. Track `var isOn = false;`.
-3. On click, flip `isOn` and update label and background color.
+1. Open Lesson 6.
+2. Complete the levels we demoed in lecture.
+3. If you finish early, add a second condition or show current mode in a label.

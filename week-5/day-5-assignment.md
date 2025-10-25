@@ -1,28 +1,28 @@
 #### Objective
 
-App Lab Lesson 5 Clicker Game. Implement score and reset.
+Lesson 5 Clicker Game. Deliver a clean working version with one extra touch.
 
 #### Requirements
 
-1. Click button increases a `score` variable.
-2. Label shows score. Reset button sets score to 0.
-3. Add a small upgrade or feedback.
+1. Core loop complete and visible in the UI.
+2. Add one extra touch such as feedback, message, or sound.
+3. Keep the interface clear and ids readable.
 
 #### Screenshots
 
 - Share link
-- One screenshot of the game
-- One code screenshot showing score and handlers
+- One screenshot of the game running
+- One code screenshot that shows your event logic
 
 #### Reflection
 
-- What your score logic does
-- One UX detail you added
-- One next feature
+- What your extra touch adds for the user
+- One small UX detail you improved
+- One next idea you would add
 
 #### Rubric (20 pts)
 
-- Score + reset implemented 0–5
-- UI updates correctly 0–5
+- Core loop working 0–5
+- Extra touch implemented 0–5
 - Screenshots clear 0–5
 - Reflection quality 0–5

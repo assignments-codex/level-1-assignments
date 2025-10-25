@@ -4,7 +4,7 @@ Unit 2 Lesson 10 Mini-Project Adding Style. Style the same user page you built i
 
 #### Requirements
 
-1. Open Lesson 10 and add styles to your page.
+1. Complete the Lesson 10 levels we started.
 2. Include at least five CSS rules that change color, font, spacing, or link states.
 
 #### Screenshots

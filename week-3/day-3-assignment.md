@@ -4,7 +4,7 @@ Unit 2 Lesson 17 Linking Pages. Build multi-page nav and verify links.
 
 #### Requirements
 
-1. Complete one 17.5 Practice and one Adding Pages item at 17.6 or 17.7.
+1. Complete one Practice at 17.5 and one Adding Pages item at 17.6 or 17.7.
 2. Duplicate your Lesson 14 page into at least two HTML files (example `index.html`, `about.html`).
 3. Add a nav bar or link list on every page and verify links both directions.
 

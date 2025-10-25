@@ -4,8 +4,9 @@ Unit 2 Lesson 5 Mini-Project HTML Web Page. Plan quickly and begin coding a simp
 
 #### Requirements
 
-1. Open Lesson 5 and work through the planning and build levels you reach today.
+1. Open Lesson 5 and complete the planning and initial build levels we did in class.
 2. Build a page in Web Lab that uses headings and paragraphs for your chosen user.
+3. If you finish early, add one extra section or link you planned.
 
 #### Screenshots
 
