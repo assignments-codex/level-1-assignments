@@ -1,5 +1,3 @@
-# Day 3 Assignment - Lesson 5 Mini-Project HTML Web Page
-
 #### Objective
 
 Start the Lesson 5 mini-project. Plan quickly and begin coding a simple page for a user.

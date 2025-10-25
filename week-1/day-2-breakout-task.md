@@ -1,5 +1,3 @@
-# Day 2 Breakout Task - Lesson 3 Headings and Lists
-
 #### Goal
 
 Complete one Practice from 3.8 and one Challenge from 3.11. If you have time, do the rest.

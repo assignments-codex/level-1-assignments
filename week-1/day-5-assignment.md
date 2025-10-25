@@ -1,5 +1,3 @@
-# Day 5 Assignment - Lesson 8 Using Images
-
 #### Objective
 
 Show solid progress in Lesson 8 by adding images correctly and capturing evidence.

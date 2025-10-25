@@ -1,5 +1,3 @@
-# Day 1 Breakout Task - Lesson 2 Intro to HTML
-
 #### Goal
 
 Complete one Practice from 2.6 and one Challenge from 2.9. If you have time, do the rest.
