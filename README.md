@@ -1,16 +1,3 @@
-# Level 1 - Weeks 1–8 Navigation
-
-Use this README to jump to any breakout task or assignment.
-Each week folder contains five Markdown files named:
-
-- day-1-breakout-task.md
-- day-2-breakout-task.md
-- day-3-assignment.md
-- day-4-breakout-task.md
-- day-5-assignment.md
-
----
-
 ## Week 1 - Unit 2 start: HTML, headings/lists, mini-project, CSS intro, images
 
 - [week-1/day-1-breakout-task.md](week-1/day-1-breakout-task.md) - U2 L2 Intro to HTML. Do one 2.6 Practice and one 2.9 Challenge.
