@@ -1,27 +1,30 @@
+# Week 8 Day 3
+
 #### Objective
 
-Playable or usable checkpoint.
+Wireframe and logic checkpoint submission.
 
 #### Requirements
 
-1. The core loop or main action works end to end.
-2. At least one state, score, or summary value updates visibly.
+1. Submit a wireframe that shows your app layout.
+   - One page is enough.
+   - Any format is fine (paper photo, drawing tool, slides, etc.).
+   - We just need to be able to view it.
+2. Submit a rough logic explanation.
+   - Pseudocode is fine.
+   - A paragraph is also fine.
+   - Correctness is not graded, we just need a real attempt.
+3. Submit a short progress update showing where your app is right now.
 
-#### Screenshots
+#### Submission
 
-- Share link
-- One screenshot of the app running the core action
-- One code screenshot of the core logic
+- App Lab share link
+- Share link (or upload) for your wireframe
+- Logic explanation (pseudocode or paragraph)
+- Progress update (1 to 3 sentences)
 
 #### Reflection
 
-- What is working now
-- What remains and any risks
-- Your next three tasks
-
-#### Rubric (20 pts)
-
-- Core loop complete 0–5
-- State updates visible 0–5
-- Screenshots clear 0–5
-- Reflection quality 0–5
+- What your app does for the user
+- What part is working well so far
+- What you plan to finish next
