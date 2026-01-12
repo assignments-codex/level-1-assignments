@@ -1,27 +1,25 @@
 #### Objective
 
-Final app submission.
+Finalize the app and submit the finished project.
 
 #### Requirements
 
-1. Share link to the final App Lab project.
-2. Two screenshots: app running and code highlights.
-3. Short design doc: screens, variables, core logic, known bugs.
+1. Built in App Lab on code.org.
+2. At least 2 onEvent handlers.
+3. At least 2 screens with working navigation.
+4. At least 2 named helper functions (not onEvent callbacks) that are called in the app.
+5. At least 1 if - else if - else that changes the result or UI.
+6. At least 1 variable that changes during the app.
+7. The app feels complete and is easy to understand.
 
-#### Screenshots
+#### Submission
 
-- Share link
-- Two screenshots as listed
-
-#### Reflection
-
-- One design choice you are proud of
-- One thing you would add with more time
-- One lesson you will carry to Level 2
+- Final App Lab share link
 
 #### Rubric (20 pts)
 
-- Meets spec 0–5
-- Stability and usability 0–5
-- Evidence clear 0–5
-- Reflection quality 0–5
+- Events and screens (2+ onEvent, 2+ screens, navigation works) 0-4
+- Functions (2 named helper functions used correctly) 0-4
+- Logic (if - else if - else and variable used meaningfully) 0-4
+- Clean design and usability (labels, layout, instructions, easy to use) 0-4
+- Completeness (app feels finished, no obvious broken flow) 0-4
