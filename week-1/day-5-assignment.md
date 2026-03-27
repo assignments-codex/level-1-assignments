@@ -5,11 +5,11 @@ Unit 2 Lesson 8 Using Images. Show progress adding images correctly.
 #### Requirements
 
 1. Do any one Practice at 8.7 and any one Assessment at 8.10.
-2. Include at least one `img` with meaningful `alt` and a short attribution note if needed.
+2. Include at least one`img`with meaningful`alt`and a short attribution note if needed.
 
 #### Screenshots
 
-- Lesson 8 bubble view showing today’s completions
+- Lesson 8 bubble view showing today's completions
 - One screenshot of your page or code from today
 
 #### Reflection
@@ -20,7 +20,7 @@ Unit 2 Lesson 8 Using Images. Show progress adding images correctly.
 
 #### Rubric (20 pts)
 
-- Lesson 8 completion 0–5
-- Page or code present 0–5
-- Images use `img` with `alt` and attribution when needed 0–5
-- Reflection quality 0–5
+- Lesson 8 completion 0-5
+- Page or code present 0-5
+- Images use`img`with`alt`and attribution when needed 0-5
+- Reflection quality 0-5

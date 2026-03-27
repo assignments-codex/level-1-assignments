@@ -1,5 +1,3 @@
-# Week 8 Day 3
-
 #### Objective
 
 Wireframe and logic checkpoint submission.

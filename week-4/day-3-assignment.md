@@ -1,6 +1,6 @@
 #### Objective
 
-Review core HTML and CSS in CodeSandbox.
+Review core HTML and CSS in CodeSandbox by building a 2-page website.
 
 #### Requirements
 
@@ -8,11 +8,9 @@ Review core HTML and CSS in CodeSandbox.
 2. Add a simple site-wide style in `styles.css` for typography and spacing.
 3. Add link states for `a` tags so hover is visible.
 
-#### Screenshots
+#### Submission
 
 - CodeSandbox share link
-- One screenshot of a page running
-- One screenshot of `styles.css` showing your base rules
 
 #### Reflection
 
@@ -22,7 +20,7 @@ Review core HTML and CSS in CodeSandbox.
 
 #### Rubric (20 pts)
 
-- Pages and links present 0–5
-- Base CSS applied 0–5
-- Screenshots clear 0–5
-- Reflection quality 0–5
+- Pages and links present 0-5
+- Base CSS applied 0-5
+- Submission public/Working Link clear 0-5
+- Reflection quality 0-5

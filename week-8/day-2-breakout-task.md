@@ -1,5 +1,3 @@
-# Week 8 Day 2
-
 #### Goal
 
 Build the core interactions and start writing the real logic.

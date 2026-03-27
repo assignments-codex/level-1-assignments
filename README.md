@@ -56,7 +56,7 @@
 
 ## Week 8
 
-- [week-8/day-1-breakout-task.md](week-8/day-1-breakout-task.md).
+- [week-8/day-1-breakout-task.md](week-8/day-1-breakout-task.md)
 - [week-8/day-2-breakout-task.md](week-8/day-2-breakout-task.md)
 - [week-8/day-3-assignment.md](week-8/day-3-assignment.md)
 - [week-8/day-4-breakout-task.md](week-8/day-4-breakout-task.md)

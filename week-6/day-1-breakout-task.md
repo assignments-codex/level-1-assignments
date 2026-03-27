@@ -1,9 +1,9 @@
 #### Goal
 
-Finish Lesson 6 If-Statements so a condition changes the UI.
+Finish Lesson 6 and 7.
 
 #### Steps
 
-1. Open Lesson 6.
-2. Complete the levels we demoed in lecture.
-3. If you finish early, add a second condition or show current mode in a label.
+1. Complete all bubbles for lesson 6
+2. Complete all bubbles for lesson 7.
+3. If time allows: add in validation to ensure no empty fields are present before a user submits their Mad Lib.

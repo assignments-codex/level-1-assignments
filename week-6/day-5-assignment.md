@@ -1,6 +1,6 @@
 #### Objective
 
-Lesson 10 Color Sleuth. Core loop continues with score or rounds.
+Lesson 10 Color Sleuth. Complete lesson 10.
 
 #### Requirements
 
@@ -8,11 +8,9 @@ Lesson 10 Color Sleuth. Core loop continues with score or rounds.
 2. The round resets with a new target and choices.
 3. Feedback for correct or wrong is visible.
 
-#### Screenshots
+#### Submission
 
 - Share link
-- One screenshot of the game mid-round
-- One code screenshot that shows your guess handling
 
 #### Reflection
 
@@ -22,7 +20,7 @@ Lesson 10 Color Sleuth. Core loop continues with score or rounds.
 
 #### Rubric (20 pts)
 
-- Score or rounds update 0–5
-- Reset works cleanly 0–5
-- Screenshots clear 0–5
-- Reflection quality 0–5
+- Score or rounds update 0-5
+- Reset works cleanly 0-5
+- Game logic correct 0-5
+- Reflection quality 0-5

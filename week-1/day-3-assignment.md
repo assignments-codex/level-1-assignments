@@ -10,7 +10,7 @@ Unit 2 Lesson 5 Mini-Project HTML Web Page. Plan quickly and begin coding a simp
 
 #### Screenshots
 
-- Lesson 5 bubble view showing today’s completions
+- Lesson 5 bubble view showing today's completions
 - One screenshot of your page or code
 
 #### Reflection
@@ -21,7 +21,7 @@ Unit 2 Lesson 5 Mini-Project HTML Web Page. Plan quickly and begin coding a simp
 
 #### Rubric (20 pts)
 
-- Lesson 5 completion 0–5
-- Page content present 0–5
-- Screenshots clear 0–5
-- Reflection quality 0–5
+- Lesson 5 completion 0-5
+- Page content present 0-5
+- Screenshots clear 0-5
+- Reflection quality 0-5

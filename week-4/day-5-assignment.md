@@ -9,11 +9,9 @@ Build a larger website in CodeSandbox. Longer breakout time today.
 3. Reusable classes for common elements and link states visible.
 4. One Flexbox section for nav or a card row.
 
-#### Screenshots
+#### Submission
 
 - CodeSandbox share link
-- One screenshot of the running site
-- One screenshot of `styles.css` showing classes and Flexbox rules
 
 #### Reflection
 
@@ -23,7 +21,7 @@ Build a larger website in CodeSandbox. Longer breakout time today.
 
 #### Rubric (20 pts)
 
-- Pages, nav, and layout 0–5
-- Images and accessibility 0–5
-- CSS organization 0–5
-- Reflection quality 0–5
+- Pages, nav, and layout 0-5
+- Images and accessibility 0-5
+- CSS organization 0-5
+- Reflection quality 0-5

@@ -9,7 +9,7 @@ Unit 2 Lesson 10 Mini-Project Adding Style. Style the same user page you built i
 
 #### Screenshots
 
-- Lesson 10 bubble view showing today’s completions
+- Lesson 10 bubble view showing today's completions
 - One screenshot of your CSS and the styled page
 
 #### Reflection
@@ -20,7 +20,7 @@ Unit 2 Lesson 10 Mini-Project Adding Style. Style the same user page you built i
 
 #### Rubric (20 pts)
 
-- Lesson 10 completion 0–5
-- CSS rules present 0–5
-- Screenshots clear 0–5
-- Reflection quality 0–5
+- Lesson 10 completion 0-5
+- CSS rules present 0-5
+- Screenshots clear 0-5
+- Reflection quality 0-5

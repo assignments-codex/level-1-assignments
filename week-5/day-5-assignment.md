@@ -1,28 +1,26 @@
 #### Objective
 
-Lesson 5 Clicker Game. Deliver a clean working version with one extra touch.
+Lesson 6 Clicker Game. Deliver a clean working version.
 
 #### Requirements
 
-1. Core loop complete and visible in the UI.
-2. Add one extra touch such as feedback, message, or sound.
-3. Keep the interface clear and ids readable.
+1. All bubbles are complete lessons 5 and 6.
+2. Clicker game works as expected per lesson requirements.
 
-#### Screenshots
+#### Submission
 
-- Share link
-- One screenshot of the game running
-- One code screenshot that shows your event logic
+- Share link to your code
+- code.org username
 
 #### Reflection
 
-- What your extra touch adds for the user
-- One small UX detail you improved
-- One next idea you would add
+- What is something in JavaScript that you find confusing?
+- Is there an app you would like to build?
+- One next idea you would add to the clicker game
 
 #### Rubric (20 pts)
 
-- Core loop working 0–5
-- Extra touch implemented 0–5
-- Screenshots clear 0–5
-- Reflection quality 0–5
+- Core logic working 0-5
+- All sections of lessons 5 and 6 complete 0-5
+- Submission link works 0-5
+- Reflection quality 0-5

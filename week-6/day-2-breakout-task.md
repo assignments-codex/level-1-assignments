@@ -1,9 +1,10 @@
 #### Goal
 
-Wrap Lesson 7 User Input and complete Lesson 8 Boolean Expressions from lecture.
+Lesson 9 Sprite Movement. Complete one L9.7 Practice and one L9.8 Assessment.
 
 #### Steps
 
-1. Open Lesson 7 and finish the levels we started so input produces a message.
-2. Open Lesson 8 and finish the levels we started so a boolean expression decides the result.
-3. If you finish early, show pass or try again messages and clear inputs after a check.
+1. Open Lesson 9.
+2. Do any one L9.7 Practice.
+3. Do any one L9.8 Assessment.
+4. If time remains, keep the sprite on screen by wrapping or clamping.

@@ -22,7 +22,7 @@ Lesson 4 Variables. Show a working variable that updates the UI.
 
 #### Rubric (20 pts)
 
-- Lesson 4 completion 0–5
-- Variable updates UI 0–5
-- Screenshots clear 0–5
-- Reflection quality 0–5
+- Lesson 4 completion 0-5
+- Variable updates UI 0-5
+- Screenshots clear 0-5
+- Reflection quality 0-5
