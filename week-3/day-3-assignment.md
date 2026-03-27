@@ -1,27 +1,24 @@
 #### Objective
 
-Unit 2 Lesson 17 Linking Pages. Build multi-page nav and verify links.
+Submit your progress checkpoint through Lesson 17.
 
 #### Requirements
 
-1. Complete one Practice at 17.5 and one Adding Pages item at 17.6.
-2. Duplicate your Lesson 14 page into at least two HTML files (example`index.html`,`about.html`).
-3. Add a nav bar or link list on every page and verify links both directions.
+1. Complete your work through Lesson 17, including the linking practice from class.
+2. Make sure your pages link correctly if you worked on the hyperlink activities.
+3. Submit your Code.org profile link so your progress can be checked.
 
-#### Screenshots
+#### Submission
 
-- Lesson 17 bubble view showing today's completions
-- One screenshot proving the nav works between pages
+- Code.org profile link
 
 #### Reflection
 
-- One convention for good navigation you will keep using
-- A path mistake you fixed
-- One improvement you plan for your site map
+- What is the difference between linking to another page in your site and linking to another site on the web
+- One bug you fixed this week
+- One part of your site that still needs work
 
 #### Rubric (20 pts)
 
-- Lesson 17 completion 0-5
-- Navigation working on all pages 0-5
-- Screenshots clear 0-5
-- Reflection quality 0-5
+- Progress through Lesson 17 0-10
+- Reflection depth and accuracy 0-10

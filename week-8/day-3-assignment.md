@@ -1,28 +1,27 @@
 #### Objective
 
-Wireframe and logic checkpoint submission.
+Submit your App Lab project checkpoint.
 
 #### Requirements
 
-1. Submit a wireframe that shows your app layout.
-   - One page is enough.
-   - Any format is fine (paper photo, drawing tool, slides, etc.).
-   - We just need to be able to view it.
-2. Submit a rough logic explanation.
-   - Pseudocode is fine.
-   - A paragraph is also fine.
-   - Correctness is not graded, we just need a real attempt.
-3. Submit a short progress update showing where your app is right now.
+1. Submit your App Lab share link.
+2. Submit a wireframe or screen sketch.
+3. Write a short explanation of what your app does and what part of the logic you are working on now.
+4. The project must be a fresh project, not a direct copy of a lesson.
 
 #### Submission
 
 - App Lab share link
-- Share link (or upload) for your wireframe
-- Logic explanation (pseudocode or paragraph)
-- Progress update (1 to 3 sentences)
+- Wireframe or screen sketch
 
 #### Reflection
 
-- What your app does for the user
-- What part is working well so far
-- What you plan to finish next
+- What your app does
+- What part of the logic you are working on now
+- One thing you still need to build before the final submission
+
+#### Rubric (20 pts)
+
+- Share link and visible progress 0-10
+- Wireframe or screen sketch 0-5
+- Logic explanation 0-5

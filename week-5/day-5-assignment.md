@@ -1,26 +1,27 @@
 #### Objective
 
-Lesson 6 Clicker Game. Deliver a clean working version.
+Continue building Color Sleuth.
 
 #### Requirements
 
-1. All bubbles are complete lessons 5 and 6.
-2. Clicker game works as expected per lesson requirements.
+1. Complete your progress through Lesson 10.
+2. Make sure all lessons up to Lesson 10 are complete for full credit.
+3. Your Color Sleuth app should run and respond to player clicks.
+4. Submit your Code.org profile link and the share link to your Color Sleuth app.
 
 #### Submission
 
-- Share link to your code
-- code.org username
+- Code.org profile link
+- App Lab share link
 
 #### Reflection
 
-- What is something in JavaScript that you find confusing?
-- Is there an app you would like to build?
-- One next idea you would add to the clicker game
+- What part of the game logic is working best
+- One part of the game you still need to debug
+- One feature you would add after the core version works
 
 #### Rubric (20 pts)
 
-- Core logic working 0-5
-- All sections of lessons 5 and 6 complete 0-5
-- Submission link works 0-5
-- Reflection quality 0-5
+- Progress through Lesson 10 0-10
+- Working Color Sleuth share link 0-5
+- Reflection 0-5

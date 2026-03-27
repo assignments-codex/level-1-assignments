@@ -1,26 +1,27 @@
 #### Objective
 
-Unit 2 Lesson 12 Organizing Content with Flexbox. Apply flex to your nav.
+Finish Lesson 12 and submit the second week Web Development checkpoint.
 
 #### Requirements
 
-1. Complete at least one Practice at 12.6 and any one Assessment at 12.7.
-2. Convert your page nav into a flex container. Add a class to the nav list, then set `display: flex` and space items.
+1. Work through Lesson 12 so you practice using flexbox to organize content.
+2. Make sure assessment bubbles 8.8, 9.8, 11.6, and 12.7 are complete.
+3. Use flexbox at least once in your current website work.
+4. Submit your Code.org profile link and your current website share link.
 
-#### Screenshots
+#### Submission
 
-- Lesson 12 bubble view showing today's completions
-- One screenshot of HTML (nav with class) and CSS (flex rules) or a before and after of the nav
+- Code.org profile link
+- Web Lab share link
 
 #### Reflection
 
-- Which Flexbox rule helped most
-- One layout you want to improve later
-- One tip you will use to debug layout
+- What flexbox helped you do on the page
+- One class you reused this week
+- One thing you want to review before moving on
 
 #### Rubric (20 pts)
 
-- Lesson 12 completion 0-5
-- Flexbox applied to nav 0-5
-- Screenshots clear 0-5
-- Reflection quality 0-5
+- Assessment progress 0-10
+- Website progress and share link 0-5
+- Reflection 0-5

@@ -1,19 +1,16 @@
 #### Goal
 
-Finish the main features and clean up the UI and code.
+Finish the main features and debug the app.
 
 #### Steps
 
-1. Make sure the app meets all core requirements:
-   - at least 2 onEvent handlers
-   - at least 2 screens
-   - at least 2 named helper functions (not onEvent callbacks) and they are called
-   - at least 1 if - else if - else
-   - at least 1 variable that changes during the app
-2. Add or improve user feedback:
-   - update labels clearly (score, instructions, status)
-   - reset or restart works cleanly
-3. Clean up the UI:
-   - alignment and spacing
-   - button names and labels are clear
-4. If you finish early, add one small polish feature (sound, better difficulty, better instructions, best score, etc.).
+1. Test every interaction in your app.
+2. Make sure text, screens, and results are easy to understand.
+3. Fix anything that breaks when the user clicks in a different order.
+4. Keep the code readable as you clean it up.
+5. If you finish early, add one small improvement that makes the app feel more complete.
+
+#### Extra practice if you want
+
+- Add clearer feedback for the user.
+- Rename one unclear variable, id, or function.

@@ -1,26 +1,27 @@
 #### Objective
 
-Review core HTML and CSS in CodeSandbox by building a 2-page website.
+Start a fresh App Lab project and use a variable.
 
 #### Requirements
 
-1. Ensure all pages have titles, headings, paragraphs, and working links.
-2. Add a simple site-wide style in `styles.css` for typography and spacing.
-3. Add link states for `a` tags so hover is visible.
+1. Complete the Lesson 4 work from class.
+2. Create a fresh App Lab project.
+3. Use at least one variable that changes something on the screen.
+4. Submit your Code.org profile link and your App Lab share link.
 
 #### Submission
 
-- CodeSandbox share link
+- Code.org profile link
+- App Lab share link
 
 #### Reflection
 
-- One HTML or CSS detail you reinforced today
-- One small fix you made while reviewing
-- One thing to target for the final site
+- What your variable stores
+- What event changes the variable
+- One part of App Lab that feels different from Web Lab
 
 #### Rubric (20 pts)
 
-- Pages and links present 0-5
-- Base CSS applied 0-5
-- Submission public/Working Link clear 0-5
-- Reflection quality 0-5
+- Progress through Lesson 4 0-10
+- Fresh project and share link 0-5
+- Reflection 0-5

@@ -1,33 +1,28 @@
 #### Objective
 
-Show completion of the Code.org Unit 2 Web Development curriculum.
+Build a small website that uses the Web Development skills you learned in Weeks 1 through 3.
 
 #### Requirements
 
-1. Complete all Unit 2 lessons in your Code.org section (no screenshots needed).
-2. Submit your Code.org username so we can verify completion.
-3. If your Code.org display name does not match Moodle, include your full name.
+1. Create or finish a small site in Web Lab.
+2. Use headings, paragraphs, images, links, classes, and flexbox somewhere in the site.
+3. Keep the site small, readable, and complete.
+4. Complete the post test if your instructor has unlocked it.
 
 #### Submission
 
-Paste your Code.org username in Moodle. If your display name differs, include your full name.
+- Code.org profile link
+- Web Lab share link
+- Post test confirmation or a note that it is still locked
 
 #### Reflection
 
-3-5 sentences on the whole Unit 2:
-
-- Two concepts you learned that will stick with you
-- One challenge you hit and how you solved it
-- One skill you want to improve next
+- Two skills from Web Development that you used in this site
+- One part of your site you are proud of
+- One thing you would improve with more time
 
 #### Rubric (20 pts)
 
-- Completion (0-16)
-  - 16 = All major Unit 2 lessons completed
-  - 12 = Most lessons completed (1-3 major lessons missing)
-  - 8 = Some lessons completed (4-6 major lessons missing)
-  - 0 = Minimal progress
-- Reflection (0-4)
-  - 4 = Clear, specific, addresses all prompts
-  - 2 = Present but vague or incomplete
-  - 0 = Missing
+- Website requirements met 0-10
+- Code.org progress and post test 0-5
+- Reflection 0-5

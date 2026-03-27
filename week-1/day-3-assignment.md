@@ -1,27 +1,28 @@
 #### Objective
 
-Unit 2 Lesson 5 Mini-Project HTML Web Page. Plan quickly and begin coding a simple page for a user.
+Complete Lesson 5 Mini-Project HTML Web Page.
 
 #### Requirements
 
-1. Open Lesson 5 and complete the planning and initial build levels we did in class.
-2. Build a page in Web Lab that uses headings and paragraphs for your chosen user.
-3. If you finish early, add one extra section or link you planned.
+1. Finish Lesson 5 in Code.org.
+2. Build your mini project page in Web Lab.
+3. Use headings, paragraphs, and at least one list.
+4. Keep the page focused on one clear topic or user.
 
-#### Screenshots
+#### Submission
 
-- Lesson 5 bubble view showing today's completions
-- One screenshot of your page or code
+- Screenshot of your Lesson 5 progress bubbles
+- Screenshot of your Web Lab page or your code
 
 #### Reflection
 
-- Which HTML element you are most likely to forget
-- One thing you learned that will help next time
-- One question you still have
+- What part of HTML feels easiest right now
+- What part of HTML still needs practice
+- One thing you improved today
 
 #### Rubric (20 pts)
 
 - Lesson 5 completion 0-5
-- Page content present 0-5
-- Screenshots clear 0-5
-- Reflection quality 0-5
+- Page structure and content 0-5
+- Screenshots clear and complete 0-5
+- Reflection 0-5

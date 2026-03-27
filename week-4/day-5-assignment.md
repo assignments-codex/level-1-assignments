@@ -1,27 +1,26 @@
 #### Objective
 
-Build a larger website in CodeSandbox. Longer breakout time today.
+Finish the first App Lab checkpoint through Lesson 6.
 
 #### Requirements
 
-1. Three or more pages with working nav.
-2. At least two images with `alt` and a short attribution note.
-3. Reusable classes for common elements and link states visible.
-4. One Flexbox section for nav or a card row.
+1. Complete your progress through Lesson 6.
+2. Make sure you understand what each if statement is checking in the lesson.
+3. Submit your Code.org profile link and your current App Lab share link.
 
 #### Submission
 
-- CodeSandbox share link
+- Code.org profile link
+- App Lab share link
 
 #### Reflection
 
-- One layout decision you like
-- One accessibility fix you made
-- One next step for version 2
+- In your own words, what an if statement does
+- One bug or mistake you had to fix
+- One thing you want to practice next week
 
 #### Rubric (20 pts)
 
-- Pages, nav, and layout 0-5
-- Images and accessibility 0-5
-- CSS organization 0-5
-- Reflection quality 0-5
+- Progress through Lesson 6 0-10
+- Share link and working app 0-5
+- Reflection 0-5

@@ -1,10 +1,16 @@
 #### Goal
 
-Finish Unit 2 Lesson 18 CSS Pseudo-classes we started together.
+Finish Lesson 18 Practice Using Pseudo-classes.
 
 #### Steps
 
-1. Open Unit 2 Lesson 18.
-2. Complete the levels we demoed in lecture.
-3. Complete any one Practice at 18.6 and the Assessment at 18.7 plus 18.9.
-4. If you finish early, add `:hover`and `:active` states to your Lesson 17 site nav links and test.
+1. Open Lesson 18 in the Web Development course.
+2. Finish the main lesson levels we started in class.
+3. Practice hover styles and other pseudo-class states.
+4. Make the changes easy to notice when you test the page.
+5. If you finish early, try one pseudo-class challenge level.
+
+#### Extra practice if you want
+
+- Improve the hover state on a link or button in your project.
+- Revisit an earlier page and make the interactive parts clearer.

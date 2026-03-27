@@ -1,26 +1,27 @@
 #### Objective
 
-Lesson 10 Color Sleuth. Complete lesson 10.
+Complete the App Lab review week.
 
 #### Requirements
 
-1. Score or rounds update each time the user guesses.
-2. The round resets with a new target and choices.
-3. Feedback for correct or wrong is visible.
+1. Submit your Code.org profile link.
+2. Submit one App Lab share link for either your finished Color Sleuth project or your fresh skills checkpoint app.
+3. Make sure the app includes events, variables, and conditionals.
+4. Write a reflection on what you want to carry into the final App Lab project.
 
 #### Submission
 
-- Share link
+- Code.org profile link
+- App Lab share link
 
 #### Reflection
 
-- What your random logic controls
-- One UX improvement you added
-- One next feature you would add
+- Which App Lab project you submitted and why
+- One JavaScript idea that makes more sense now
+- One goal for your final App Lab project
 
 #### Rubric (20 pts)
 
-- Score or rounds update 0-5
-- Reset works cleanly 0-5
-- Game logic correct 0-5
-- Reflection quality 0-5
+- Code.org progress 0-5
+- Working app share link 0-10
+- Reflection 0-5

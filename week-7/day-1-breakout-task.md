@@ -1,16 +1,16 @@
 #### Goal
 
-Start the website project in Web Lab and complete a simple plan.
+Plan your Web Lab project and build the structure.
 
 #### Steps
 
-1. Open code.org and create a new Web Lab project.
-2. Choose a website topic and goal in 1 sentence.
-3. Decide your 3 pages (page names and what each page will contain).
-4. Create a basic wireframe (one page is enough) that shows the layout you plan to build.
-5. Gather images you plan to use and add them into the project.
-6. Create all HTML files and add boilerplate plus semantic layout on each page:
-   - header
-   - main
-   - footer
-7. Add placeholder headings and section labels so each page has a clear structure.
+1. Choose a topic for your website.
+2. Create a simple site map or page list.
+3. Build the home page and one additional page.
+4. Add shared navigation so you can move between pages.
+5. If you finish early, add placeholder text or image spots for the rest of the site.
+
+#### Extra practice if you want
+
+- Sketch the layout for one page before you build it.
+- Double check that your links and page names make sense.

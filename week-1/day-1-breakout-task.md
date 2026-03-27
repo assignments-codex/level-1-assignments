@@ -1,10 +1,17 @@
 #### Goal
 
-Unit 2 Lesson 2 Intro to HTML. Complete one 2.6 Practice and one 2.9 Challenge. If time remains, do the rest.
+Start the Code.org Web Development course and move through Lesson 2 Intro to HTML.
 
 #### Steps
 
-1. Join our Code.org section if needed, then open Web Development -> Lesson 2.
-2. Do any one 2.6 Practice activity.
-3. Do any one 2.9 Challenge activity.
-4. If time remains, complete remaining options.
+1. Open the Web Development course in Code.org.
+2. If Lesson 1 is not finished yet, complete the survey first.
+3. Move into Lesson 2 and finish the levels we started in class.
+4. Complete at least one Practice level in 2.6.
+5. Complete the assessment in 2.7.
+6. Complete one Challenge level in 2.9.
+
+#### If you finish early
+
+- Complete another practice or challenge level from Lesson 2.
+- Open a Web Lab project and look around so it feels familiar.

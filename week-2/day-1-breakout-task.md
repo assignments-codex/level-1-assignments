@@ -1,10 +1,16 @@
 #### Goal
 
-Finish Unit 2 Lesson 9 Styling Elements with CSS we started together.
+Finish Lesson 9 Styling Elements.
 
 #### Steps
 
-1. Open Unit 2 Lesson 9.
-2. Complete the levels we demoed in lecture.
-3. Complete any one Practice at 9.7 and any one Assessment at 9.8.
-4. If you finish early, apply one non-text style to your Lesson 5 page.
+1. Open Lesson 9 in the Web Development course.
+2. Finish the main lesson levels we started in class.
+3. Keep working until you reach the assessment in 9.8.
+4. Use this lesson to practice colors, spacing, borders, and other element styles.
+5. If you finish early, clean up one styling issue in your earlier project work.
+
+#### Extra practice if you want
+
+- Revisit an earlier page and improve spacing or readability.
+- Try one additional styling challenge from the lesson.

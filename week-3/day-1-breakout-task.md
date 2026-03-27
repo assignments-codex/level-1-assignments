@@ -1,10 +1,16 @@
 #### Goal
 
-Finish Unit 2 Lesson 13 Flexbox Children we started together.
+Finish Lesson 13 Flexbox Children.
 
 #### Steps
 
-1. Open Unit 2 Lesson 13.
-2. Complete the levels we demoed in lecture.
-3. Complete any one Practice at 13.6 and Assessment at 13.7 plus 13.9.
-4. If you finish early, apply a child rule like `order` or `align-self` to one Flexbox section.
+1. Open Lesson 13 in the Web Development course.
+2. Finish the main lesson levels we started in class.
+3. Pay attention to how flex children change size, order, and position.
+4. Test the page as you go so you can see what each change does.
+5. If you finish early, revisit your project and improve one flexbox section.
+
+#### Extra practice if you want
+
+- Try one more practice level from Lesson 13.
+- Adjust spacing or alignment in a layout you already built.

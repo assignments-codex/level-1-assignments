@@ -1,16 +1,15 @@
 #### Objective
 
-Finalize the website and submit the finished project.
+Submit the finished website.
 
 #### Requirements
 
-1. Built in Web Lab on code.org.
-2. At least 3 pages.
-3. Navigation works across every page.
-4. Semantic HTML layout on every page using header, main, footer.
-5. Includes images with meaningful alt text.
-6. Uses flexbox for layout (at least one real section).
-7. Content is organized and readable.
+1. Build the site in Web Lab.
+2. Include at least 3 pages.
+3. Use working navigation on every page.
+4. Use images with alt text.
+5. Use classes and flexbox somewhere in the site.
+6. Keep the content readable and complete.
 
 #### Submission
 
@@ -18,8 +17,7 @@ Finalize the website and submit the finished project.
 
 #### Rubric (20 pts)
 
-- Semantic HTML structure (header, main, footer used well) 0-4
-- Multiple pages and navigation working 0-4
-- Images included with meaningful alt text 0-4
-- Flexbox used to create layout (not just a tiny demo) 0-4
-- Clean design and consistency (spacing, alignment, readable layout) 0-4
+- HTML structure and content 0-5
+- Navigation and links 0-5
+- CSS classes and flexbox 0-5
+- Overall polish 0-5

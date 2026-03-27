@@ -1,23 +1,26 @@
 #### Objective
 
-Wireframe and progress checkpoint submission.
+Submit your website project checkpoint.
 
 #### Requirements
 
-1. Submit a wireframe that shows a website layout.
-   - One page is enough.
-   - Any format is fine (paper photo, drawing tool, slides, etc.).
-   - We just need to be able to view it.
-2. Submit a short progress update showing where your site is right now.
+1. Submit your Web Lab share link.
+2. Submit a wireframe or sketch that shows what your site should look like.
+3. Write a short reflection that explains what your website is about, what HTML and CSS you are using, and what you want the final site to look like.
 
 #### Submission
 
-- Share link to your Web Lab project
-- Share link (or upload) for your wireframe
-- Progress update (1 to 3 sentences)
+- Web Lab share link
+- Wireframe or sketch
 
 #### Reflection
 
-- What your site is for and who it is for
-- What part of the site is going well so far
-- What you plan to finish next
+- What your website is about
+- What HTML and CSS you are using so far
+- What you want the final site to look like
+
+#### Rubric (20 pts)
+
+- Share link and visible progress 0-10
+- Wireframe or sketch 0-5
+- Reflection 0-5

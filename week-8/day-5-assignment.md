@@ -1,26 +1,23 @@
 #### Objective
 
-Final app submission.
+Submit the finished App Lab project.
 
 #### Requirements
 
-1. Share link to the final App Lab project.
-2. All requirements met from Week 8 Day 1.
-3. Pseudocode from day 3.
+1. Submit a fresh App Lab project.
+2. Use at least 2 onEvent handlers.
+3. Use at least 1 variable that changes during the app.
+4. Use at least 1 if statement or if-else-if.
+5. The app should feel complete and easy to follow.
+6. The project should not be a direct clone of a Code.org lesson.
 
 #### Submission
 
-- Share link
-
-#### Reflection
-
-- One design choice you are proud of
-- One thing you would add with more time
-- One lesson you will carry to Level 2
+- Final App Lab share link
 
 #### Rubric (20 pts)
 
-- Meets spec 0-5
-- Stability and usability 0-5
-- Evidence clear 0-5
-- Reflection quality 0-5
+- Events and user interaction 0-5
+- Variables and logic 0-5
+- Project completeness 0-5
+- Originality and polish 0-5

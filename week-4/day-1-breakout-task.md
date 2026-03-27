@@ -1,10 +1,16 @@
 #### Goal
 
-Set up a simple multi-page site in CodeSandbox based on your Unit 2 work.
+Start App Lab with Lessons 1 and 2.
 
 #### Steps
 
-1. Create a new Static sandbox.
-2. Create `index.html,``about.html`, `resources.html`, and `styles.css`.
-3. Add headings and paragraphs on each page. Link all pages both directions.
-4. If you finish early, link `styles.css` from every page and add a base font and spacing.
+1. Open the App Lab unit in Code.org.
+2. Watch the lesson videos for Lessons 1 and 2 if you did not finish them in class.
+3. Complete the lesson bubbles for Lessons 1 and 2.
+4. Pay attention to screens, buttons, text, and event blocks as you work.
+5. If you finish early, remix or create a tiny screen and change text, colors, and one button action.
+
+#### Extra practice if you want
+
+- Write down what an event does in App Lab.
+- Make one small change in Design mode and one small change in Code mode.

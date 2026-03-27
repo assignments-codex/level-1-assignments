@@ -1,9 +1,16 @@
 #### Goal
 
-Lesson 5 Clicker Game. Make sure the core loop works end to end.
+Start Lesson 10 Color Sleuth.
 
 #### Steps
 
-1. Open Lesson 5.
-2. Complete the levels we demoed in lecture so clicking changes a value and the UI shows it.
-3. If you finish early, add a reset action or a simple milestone message.
+1. Open Lesson 10 in App Lab.
+2. Work through the planning and build steps from class.
+3. Focus on how the game chooses colors, handles turns, and updates scores.
+4. Test the app often so you can see what each change does.
+5. If you finish early, sketch one small improvement you could add later.
+
+#### Extra practice if you want
+
+- Write down one part of the game logic you understand well.
+- Write down one part of the game logic that still feels confusing.

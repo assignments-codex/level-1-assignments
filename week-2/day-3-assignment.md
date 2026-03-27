@@ -1,26 +1,27 @@
 #### Objective
 
-Unit 2 Lesson 10 Mini-Project Adding Style. Style the same user page you built in Lesson 5.
+Submit your styled website checkpoint.
 
 #### Requirements
 
-1. Complete the Lesson 10 levels we started.
-2. Include at least five CSS rules that change color, font, spacing, or link states.
+1. Complete your progress through Lesson 10.
+2. Make sure your site has readable text, clear colors, and at least one image.
+3. Submit your Code.org profile link so your progress can be checked.
+4. Submit the share link to your styled website.
 
-#### Screenshots
+#### Submission
 
-- Lesson 10 bubble view showing today's completions
-- One screenshot of your CSS and the styled page
+- Code.org profile link
+- Web Lab share link
 
 #### Reflection
 
-- Which CSS property you will use most
-- One selector rule you learned
-- One thing you still want to practice
+- What CSS change improved your site the most
+- One style choice you would still like to improve
+- One lesson from this week that you want to review
 
 #### Rubric (20 pts)
 
-- Lesson 10 completion 0-5
-- CSS rules present 0-5
-- Screenshots clear 0-5
-- Reflection quality 0-5
+- Progress through Lesson 10 0-10
+- Styled site share link 0-5
+- Reflection 0-5

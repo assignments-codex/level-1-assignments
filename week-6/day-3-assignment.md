@@ -1,26 +1,27 @@
 #### Objective
 
-Lesson 9 If-Else-If. Build a simple three-outcome result.
+Build a small App Lab app that combines the skills from the last three weeks.
 
 #### Requirements
 
-1. Complete the Lesson 9 levels you started in class.
-2. All bubbles filled in for lesson 9.
-3. 9.12 Code meets assignment requirements per code.org instructions
+1. Start a fresh App Lab project.
+2. Include at least one variable, one named function, and one if statement or if-else-if.
+3. The app should respond to user input or button clicks.
+4. Submit your Code.org profile link and your App Lab share link.
 
 #### Submission
 
-- Share link
-- One code screenshot with your if-else-if logic
+- Code.org profile link
+- App Lab share link
 
 #### Reflection
 
-- Why your conditions make sense
-- One bug you fixed/challenge overcame
-- One improvement you would add
+- Which part of the logic feels strongest right now
+- Which part still needs practice
+- One feature you would add next
 
 #### Rubric (20 pts)
 
-- Lesson 9 completion 0-5
-- 9.12 meets code.org requirements 0-10
-- Reflection quality 0-5
+- Working app and required skills 0-10
+- Share link and project setup 0-5
+- Reflection 0-5
